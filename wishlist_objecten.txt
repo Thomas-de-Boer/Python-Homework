@@ -1,0 +1,617 @@
+Minecraft;29.99
+GTA V;29.99
+FIFA 25;79.99
+Call of Duty: Modern Warfare III;69.99
+Hollow Knight;14.99
+Stardew Valley;13.99
+The Sims 4;0.0
+Among Us;4.99
+Red Dead Redemption 2;39.99
+Cyberpunk 2077;59.99
+Elden Ring;59.99
+The Witcher 3: Wild Hunt;39.99
+Assassin's Creed Valhalla;59.99
+Far Cry 6;49.99
+Valorant;0.0
+Counter-Strike 2;0.0
+Rust;39.99
+Ark: Survival Ascended;44.99
+Terraria;9.99
+Subnautica;29.99
+No Man's Sky;59.99
+Rainbow Six Siege;19.99
+Overwatch 2;0.0
+Battlefield 2042;49.99
+Fall Guys;0.0
+Phasmophobia;13.99
+Resident Evil 4 Remake;59.99
+Spider-Man Remastered;59.99
+God of War Ragnarök;69.99
+Horizon Forbidden West;59.99
+Sekiro: Shadows Die Twice;59.99
+Dark Souls III;39.99
+Cuphead;19.99
+Ori and the Will of the Wisps;29.99
+Celeste;19.99
+Undertale;9.99
+Doom Eternal;59.99
+Half-Life: Alyx;59.99
+Portal 2;9.99
+Left 4 Dead 2;9.99
+Payday 3;39.99
+Payday 2;9.99
+Lethal Company;9.99
+The Forest;19.99
+Sons of the Forest;29.99
+Dead by Daylight;19.99
+Monster Hunter World;29.99
+Monster Hunter Rise;39.99
+Forza Horizon 5;59.99
+Forza Motorsport;69.99
+Need for Speed Unbound;69.99
+Need for Speed Heat;29.99
+Gran Turismo 7;69.99
+Rocket League;0.0
+The Last of Us Part I;69.99
+The Last of Us Remastered;19.99
+Uncharted 4;19.99
+Uncharted Legacy of Thieves;49.99
+Mortal Kombat 1;69.99
+Mortal Kombat 11;19.99
+Street Fighter 6;59.99
+Tekken 8;69.99
+Tekken 7;39.99
+Super Smash Bros Ultimate;59.99
+Mario Kart 8 Deluxe;59.99
+Super Mario Odyssey;59.99
+Super Mario Bros Wonder;59.99
+Luigi's Mansion 3;59.99
+Animal Crossing New Horizons;59.99
+Pokémon Scarlet;59.99
+Pokémon Violet;59.99
+Pokémon Legends Arceus;59.99
+Pokémon Sword;59.99
+Pokémon Shield;59.99
+Pokémon Brilliant Diamond;59.99
+Pokémon Shining Pearl;59.99
+Pokémon Let's Go Pikachu;59.99
+Pokémon Let's Go Eevee;59.99
+Pokémon Unite;0.0
+Metroid Dread;59.99
+Kirby and the Forgotten Land;59.99
+Donkey Kong Country Tropical Freeze;59.99
+Splatoon 3;59.99
+Splatoon 2;59.99
+Bayonetta 3;59.99
+Bayonetta 2;59.99
+Fire Emblem Engage;59.99
+Fire Emblem Three Houses;59.99
+Xenoblade Chronicles 3;59.99
+Xenoblade Chronicles 2;59.99
+Pikmin 4;59.99
+Pikmin 3 Deluxe;59.99
+Hades;24.99
+Baldur's Gate 3;69.99
+Divinity Original Sin 2;44.99
+Pathfinder Wrath of the Righteous;39.99
+Disco Elysium;39.99
+Slay the Spire;24.99
+Dead Cells;24.99
+Enter the Gungeon;14.99
+The Binding of Isaac Rebirth;14.99
+Rogue Legacy 2;29.99
+FTL Faster Than Light;9.99
+RimWorld;34.99
+Factorio;30.0
+Cities Skylines II;49.99
+Cities Skylines;29.99
+SimCity;19.99
+Planet Zoo;44.99
+Planet Coaster;39.99
+RollerCoaster Tycoon Classic;5.99
+RollerCoaster Tycoon 3;19.99
+Two Point Hospital;29.99
+Two Point Campus;39.99
+Football Manager 2025;59.99
+Football Manager 2024;59.99
+Football Manager 2023;59.99
+Kerbal Space Program;39.99
+Kerbal Space Program 2;49.99
+Starfield;69.99
+Skyrim Special Edition;39.99
+Fallout 4;19.99
+Fallout 76;39.99
+Fallout New Vegas;9.99
+Fallout 3;9.99
+Oblivion;14.99
+Morrowind;14.99
+Dishonored 2;29.99
+Prey;29.99
+Deathloop;59.99
+Ghostwire Tokyo;59.99
+Control;39.99
+Alan Wake 2;59.99
+Alan Wake Remastered;29.99
+Quantum Break;19.99
+Max Payne 3;19.99
+Bioshock Infinite;19.99
+Bioshock The Collection;39.99
+Borderlands 3;29.99
+Borderlands 2;9.99
+Tiny Tina's Wonderlands;59.99
+Destiny 2;0.0
+Halo Infinite;0.0
+Halo The Master Chief Collection;39.99
+Star Wars Jedi Survivor;69.99
+Star Wars Jedi Fallen Order;39.99
+Star Wars Battlefront II;19.99
+Star Wars Battlefront;19.99
+LEGO Star Wars The Skywalker Saga;49.99
+LEGO Harry Potter Collection;39.99
+LEGO Marvel Super Heroes;19.99
+LEGO Marvel Super Heroes 2;19.99
+LEGO DC Super Villains;19.99
+LEGO City Undercover;29.99
+Assassin's Creed Mirage;49.99
+Assassin's Creed Odyssey;39.99
+Assassin's Creed Origins;29.99
+Assassin's Creed Black Flag;19.99
+Assassin's Creed II;9.99
+Watch Dogs Legion;49.99
+Watch Dogs 2;19.99
+Watch Dogs;9.99
+Ghost Recon Breakpoint;39.99
+Ghost Recon Wildlands;19.99
+The Division 2;19.99
+The Division;9.99
+Splinter Cell Blacklist;9.99
+Splinter Cell Conviction;9.99
+Prince of Persia Sands of Time;9.99
+Prince of Persia Warrior Within;9.99
+Prince of Persia The Two Thrones;9.99
+Far Cry Primal;19.99
+Far Cry 5;29.99
+Far Cry 4;19.99
+Far Cry 3;9.99
+Crysis Remastered;29.99
+Crysis 2 Remastered;29.99
+Crysis 3 Remastered;29.99
+Crysis Warhead;9.99
+Metro Exodus;39.99
+Metro Last Light Redux;19.99
+Metro 2033 Redux;19.99
+S.T.A.L.K.E.R. 2 Heart of Chernobyl;69.99
+S.T.A.L.K.E.R. Call of Pripyat;14.99
+S.T.A.L.K.E.R. Clear Sky;14.99
+S.T.A.L.K.E.R. Shadow of Chernobyl;14.99
+Dying Light 2;49.99
+Dying Light;19.99
+State of Decay 2;29.99
+State of Decay;19.99
+DayZ;39.99
+7 Days to Die;24.99
+Project Zomboid;19.99
+World War Z Aftermath;29.99
+Killing Floor 2;29.99
+Killing Floor;9.99
+The Evil Within 2;19.99
+The Evil Within;9.99
+Outlast 2;29.99
+Outlast;19.99
+Outlast Trinity;39.99
+Amnesia The Bunker;24.99
+Amnesia Rebirth;29.99
+Amnesia A Machine for Pigs;19.99
+Amnesia The Dark Descent;19.99
+SOMA;29.99
+Layers of Fear;29.99
+Layers of Fear 2;29.99
+Blair Witch;29.99
+Alan Wake's American Nightmare;9.99
+Silent Hill 2 (Remake);69.99
+Silent Hill Homecoming;19.99
+Silent Hill 4 The Room;9.99
+Silent Hill 3;9.99
+Resident Evil 2 Remake;39.99
+Resident Evil 3 Remake;39.99
+Resident Evil Village;39.99
+Resident Evil 7;19.99
+Resident Evil 6;9.99
+Resident Evil 5;9.99
+Resident Evil Code Veronica X;9.99
+Resident Evil Revelations;9.99
+Resident Evil Revelations 2;9.99
+Mafia Definitive Edition;39.99
+Mafia II Definitive Edition;29.99
+Mafia III;29.99
+L.A. Noire;29.99
+Sleeping Dogs Definitive Edition;19.99
+Yakuza Like a Dragon;39.99
+Yakuza 0;19.99
+Yakuza Kiwami;19.99
+Yakuza Kiwami 2;19.99
+Yakuza 6;29.99
+Judgment;39.99
+Lost Judgment;49.99
+Shenmue I & II;29.99
+Shenmue III;29.99
+Dragon Quest XI;39.99
+Dragon Quest Builders 2;39.99
+Dragon Quest Heroes II;29.99
+Persona 5 Royal;59.99
+Persona 4 Golden;19.99
+Persona 3 Reload;59.99
+Persona 3 Portable;19.99
+Catherine Full Body;39.99
+Ni no Kuni Wrath of the White Witch;19.99
+Ni no Kuni II Revenant Kingdom;29.99
+Tales of Arise;49.99
+Tales of Berseria;19.99
+Tales of Zestiria;19.99
+Tales of Symphonia Remastered;39.99
+Final Fantasy XVI;69.99
+Final Fantasy XV;29.99
+Final Fantasy XIV Online;0.0
+Final Fantasy XIII;19.99
+Final Fantasy XII The Zodiac Age;29.99
+Final Fantasy X/X-2 HD Remaster;29.99
+Final Fantasy IX;19.99
+Final Fantasy VIII Remastered;19.99
+Final Fantasy VII Remake;59.99
+Final Fantasy VII;9.99
+Kingdom Hearts III;39.99
+Kingdom Hearts II;19.99
+Kingdom Hearts Birth by Sleep;19.99
+Kingdom Hearts Chain of Memories;9.99
+Kingdom Hearts 1.5 + 2.5 Remix;49.99
+Octopath Traveler II;59.99
+Octopath Traveler;59.99
+Bravely Default II;59.99
+Bravely Default;29.99
+Bravely Second End Layer;29.99
+Chrono Trigger;14.99
+Chrono Cross The Radical Dreamers Edition;19.99
+XCOM 2;29.99
+XCOM Enemy Unknown;19.99
+Gears 5;39.99
+Gears 4;19.99
+Gears of War 3;9.99
+Gears of War 2;9.99
+Gears of War;9.99
+Mass Effect Legendary Edition;59.99
+Mass Effect Andromeda;19.99
+Mass Effect 3;9.99
+Mass Effect 2;9.99
+Mass Effect;9.99
+Dragon Age Inquisition;19.99
+Dragon Age II;9.99
+Dragon Age Origins;9.99
+Anthem;9.99
+Titanfall 2;19.99
+Titanfall;9.99
+Apex Legends;0.0
+Civ VI;29.99
+Civ V;19.99
+Civ IV;9.99
+Age of Empires IV;59.99
+Age of Empires III Definitive Edition;19.99
+Age of Empires II Definitive Edition;19.99
+Age of Empires;9.99
+Age of Mythology Extended Edition;29.99
+Total War Warhammer III;59.99
+Total War Warhammer II;39.99
+Total War Warhammer;29.99
+Total War Rome Remastered;29.99
+Total War Shogun 2;19.99
+Total War Three Kingdoms;49.99
+Crusader Kings III;49.99
+Crusader Kings II;19.99
+Europa Universalis IV;39.99
+Hearts of Iron IV;39.99
+Victoria 3;49.99
+Victoria II;19.99
+Stellaris;39.99
+Surviving Mars;29.99
+Surviving the Aftermath;29.99
+Tropico 6;39.99
+Tropico 5;19.99
+Tropico 4;9.99
+Banished;9.99
+Anno 1800;59.99
+Anno 2205;29.99
+Anno 2070;19.99
+Anno 1404;9.99
+Anno 1701;9.99
+Stronghold Warlords;39.99
+Stronghold Crusader HD;9.99
+Stronghold 2;9.99
+Warcraft III Reforged;29.99
+Warcraft III;9.99
+Starcraft II;0.0
+Starcraft Remastered;14.99
+Heroes of the Storm;0.0
+Diablo IV;69.99
+Diablo III;19.99
+Diablo II Resurrected;39.99
+Diablo II;9.99
+Diablo Immortal;0.0
+Path of Exile;0.0
+Torchlight III;29.99
+Torchlight II;19.99
+Torchlight;9.99
+Grim Dawn;24.99
+Sacred 2;9.99
+Sacred Gold;9.99
+Guild Wars 2;0.0
+Guild Wars;9.99
+World of Warcraft;0.0
+World of Warcraft Dragonflight;49.99
+World of Warcraft Shadowlands;39.99
+World of Warcraft Battle for Azeroth;29.99
+World of Warcraft Legion;19.99
+World of Warcraft Classic;0.0
+RuneScape;0.0
+Old School RuneScape;0.0
+MapleStory;0.0
+AdventureQuest Worlds;0.0
+Albion Online;0.0
+Black Desert Online;9.99
+Lost Ark;0.0
+New World;39.99
+The Elder Scrolls Online;19.99
+Star Wars The Old Republic;0.0
+Final Fantasy XI;9.99
+EVE Online;0.0
+Warframe;0.0
+Crossfire;0.0
+PUBG Battlegrounds;0.0
+PUBG Mobile;0.0
+Escape from Tarkov;44.99
+Enlisted;0.0
+War Thunder;0.0
+World of Tanks;0.0
+World of Warships;0.0
+World of Warplanes;0.0
+Heroes and Generals;0.0
+Squad;39.99
+Hell Let Loose;39.99
+Insurgency Sandstorm;29.99
+Insurgency;9.99
+Arma Reforger;29.99
+Arma 3;29.99
+Arma 2;9.99
+Arma Cold War Assault;9.99
+Operation Flashpoint Dragon Rising;9.99
+Operation Flashpoint Red River;9.99
+America’s Army Proving Grounds;0.0
+Call of Juarez Gunslinger;14.99
+Call of Juarez Bound in Blood;9.99
+Call of Juarez The Cartel;9.99
+Call of Juarez;9.99
+Medal of Honor Warfighter;19.99
+Medal of Honor;9.99
+Medal of Honor Airborne;9.99
+Medal of Honor Pacific Assault;9.99
+Medal of Honor Allied Assault;9.99
+Battlefield V;19.99
+Battlefield 1;19.99
+Battlefield Hardline;9.99
+Battlefield 4;9.99
+Battlefield 3;9.99
+Battlefield Bad Company 2;9.99
+Battlefield Bad Company;9.99
+C&C Remastered Collection;19.99
+C&C Red Alert 3;9.99
+C&C Tiberium Wars;9.99
+C&C Generals;9.99
+C&C Red Alert 2;9.99
+C&C Red Alert;9.99
+C&C Tiberian Sun;9.99
+C&C Renegade;9.99
+C&C 4 Tiberian Twilight;9.99
+Supreme Commander;9.99
+Supreme Commander 2;9.99
+Planetary Annihilation Titans;29.99
+Company of Heroes 3;59.99
+Company of Heroes 2;19.99
+Company of Heroes;9.99
+Men of War Assault Squad 2;29.99
+Men of War;9.99
+Warhammer 40K Darktide;39.99
+Warhammer 40K Space Marine 2;69.99
+Warhammer 40K Space Marine;19.99
+Warhammer 40K Inquisitor Martyr;39.99
+Warhammer 40K Dawn of War III;39.99
+Warhammer 40K Dawn of War II;19.99
+Warhammer 40K Dawn of War;9.99
+The Outer Worlds;39.99
+The Outer Worlds Spacer’s Choice Edition;59.99
+GreedFall;29.99
+GreedFall II;49.99
+Kingdom Come Deliverance;29.99
+Mount & Blade II Bannerlord;49.99
+Mount & Blade Warband;19.99
+Mount & Blade;9.99
+Chivalry 2;39.99
+Chivalry Medieval Warfare;19.99
+Mordhau;29.99
+For Honor;19.99
+Middle-earth Shadow of Mordor;19.99
+Middle-earth Shadow of War;29.99
+Shadowrun Returns;9.99
+Shadowrun Dragonfall;9.99
+Shadowrun Hong Kong;14.99
+Baldur’s Gate Enhanced Edition;19.99
+Baldur’s Gate II Enhanced Edition;19.99
+Icewind Dale Enhanced Edition;14.99
+Neverwinter Nights Enhanced Edition;19.99
+Planescape Torment Enhanced Edition;19.99
+Pillars of Eternity II Deadfire;29.99
+Pillars of Eternity;19.99
+Wasteland 3;39.99
+Wasteland 2;19.99
+Wasteland;9.99
+Fallout Tactics;9.99
+Fallout Shelter;0.0
+Battle Brothers;19.99
+Darkest Dungeon II;29.99
+Darkest Dungeon;19.99
+Endless Legend;29.99
+Endless Space 2;39.99
+Endless Space;19.99
+Humankind;49.99
+Northgard;29.99
+Frostpunk 2;49.99
+Frostpunk;29.99
+This War of Mine;19.99
+Oxygen Not Included;24.99
+Don’t Starve Together;14.99
+Don’t Starve;9.99
+Invisible Inc;19.99
+Mark of the Ninja Remastered;19.99
+Shank 2;9.99
+Shank;9.99
+Hotline Miami 2 Wrong Number;14.99
+Hotline Miami;9.99
+Katana ZERO;14.99
+My Friend Pedro;19.99
+Broforce;14.99
+Gunpoint;9.99
+Papers Please;9.99
+Return of the Obra Dinn;19.99
+Her Story;9.99
+Telling Lies;19.99
+Immortality;29.99
+Kentucky Route Zero;24.99
+Oxenfree II Lost Signals;19.99
+Oxenfree;9.99
+Night in the Woods;19.99
+Firewatch;19.99
+Gone Home;9.99
+What Remains of Edith Finch;19.99
+Everybody’s Gone to the Rapture;19.99
+Dear Esther Landmark Edition;9.99
+Journey;14.99
+Flower;9.99
+Abzû;19.99
+Inside;19.99
+Limbo;9.99
+Little Nightmares II;29.99
+Little Nightmares;19.99
+Unravel Two;19.99
+Unravel;19.99
+Ori and the Blind Forest;19.99
+Gris;14.99
+Spiritfarer;29.99
+Eastward;29.99
+Hyper Light Drifter;19.99
+Solar Ash;29.99
+Transistor;19.99
+Bastion;14.99
+Pyre;19.99
+Supergiant Hades II;39.99
+Journey to the Savage Planet;29.99
+Outer Wilds;24.99
+Deliver Us Mars;29.99
+Deliver Us the Moon;24.99
+Observation;19.99
+Ad Infinitum;39.99
+Scorn;39.99
+Atomic Heart;59.99
+Prey Mooncrash;19.99
+Everspace 2;49.99
+Everspace;29.99
+Chorus;39.99
+Elite Dangerous;29.99
+Star Citizen;0.0
+Homeworld Remastered Collection;29.99
+Homeworld 3;59.99
+Descent Underground;19.99
+Overload;29.99
+Strike Suit Zero;19.99
+Ace Combat 7 Skies Unknown;59.99
+Ace Combat Assault Horizon;19.99
+Microsoft Flight Simulator 2024;69.99
+Microsoft Flight Simulator;59.99
+X-Plane 12;59.99
+X-Plane 11;39.99
+IL-2 Sturmovik Great Battles;49.99
+DCS World;0.0
+Project Wingman;24.99
+Kerbal Space Program Enhanced Edition;39.99
+Universe Sandbox;29.99
+Space Engineers;29.99
+Empyrion Galactic Survival;19.99
+Avorion;29.99
+Starbase;29.99
+Dual Universe;0.0
+Terra Invicta;39.99
+Dyson Sphere Program;29.99
+Satisfactory;29.99
+Hydroneer;19.99
+Gold Rush The Game;19.99
+My Time at Sandrock;39.99
+My Time at Portia;29.99
+Coral Island;29.99
+Harvest Moon One World;39.99
+Story of Seasons Pioneers of Olive Town;39.99
+Rune Factory 5;39.99
+Rune Factory 4 Special;29.99
+Disney Dreamlight Valley;39.99
+Ooblets;29.99
+Slime Rancher 2;29.99
+Slime Rancher;19.99
+Spirittea;19.99
+Kynseed;24.99
+Moonlighter;19.99
+Cult of the Lamb;29.99
+Have a Nice Death;24.99
+V Rising;29.99
+Valheim;19.99
+Conan Exiles;39.99
+Barotrauma;29.99
+Raft;19.99
+Green Hell;29.99
+The Long Dark;29.99
+Stranded Deep;19.99
+SCUM;29.99
+Icarus;29.99
+Survivalist Invisible Strain;14.99
+Unturned;0.0
+Miscreated;24.99
+The Cycle Frontier;0.0
+Darwin Project;0.0
+Hunt Showdown;39.99
+CryoFall;24.99
+Chernobylite;29.99
+Generation Zero;29.99
+Mad Max;19.99
+Just Cause 4;29.99
+Just Cause 3;19.99
+Just Cause 2;9.99
+Sleeping Dogs;19.99
+True Crime New York City;9.99
+True Crime Streets of LA;9.99
+Saints Row 2022;59.99
+Saints Row IV;19.99
+Saints Row The Third Remastered;29.99
+Saints Row 2;9.99
+Saints Row;9.99
+Bully Scholarship Edition;9.99
+Manhunt 2;9.99
+Manhunt;9.99
+Kane & Lynch 2 Dog Days;9.99
+Kane & Lynch Dead Men;9.99
+Spec Ops The Line;19.99
+Binary Domain;9.99
+Vanquish;19.99
+Bayonetta;19.99
+Metal Gear Solid V Phantom Pain;29.99
+Metal Gear Solid V Ground Zeroes;9.99
+Metal Gear Rising Revengeance;19.99
+Metal Gear Solid 4 Guns of the Patriots;9.99
+Metal Gear Solid 3 Snake Eater;9.99
+Metal Gear Solid 2 Sons of Liberty;9.99
+Metal Gear Solid;9.99
+Death Stranding Director’s Cut;49.99
+Death Stranding;39.99
